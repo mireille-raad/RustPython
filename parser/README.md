@@ -12,10 +12,7 @@ We wrote [a blog post](https://rustpython.github.io/featured/2020/03/11/thing-ex
 
 For more information on LALRPOP, here is a link to the [LALRPOP book](https://github.com/lalrpop/lalrpop).
 
-
-## Files
-
-There is a readme in `parser/src` with the details of each file.
+There is a readme in the `src` folder with the details of each file.
 
 ## How to use
 
